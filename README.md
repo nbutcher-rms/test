@@ -1,2 +1,2 @@
 # test
-A test repos to lern hwo to use github
+A test repos to learn how to use github
